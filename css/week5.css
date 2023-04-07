@@ -1,0 +1,59 @@
+#logo {
+    position: relative;
+    width: 70.26px;
+    height: 65.1px;
+    top: 18px;
+    left: 146px;
+}
+
+#mainmenu {
+    position: relative;
+    list-style-type: none;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+}
+
+main {
+    background-image: url(assets\both-ood-iceland-houses.png);
+}
+
+#footer {
+    background-color: #5B6460;
+    list-style-type: none;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+#addemail {
+    background-color: #5B6460;
+}
+
+::placeholder {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF;
+    opacity: 0.7;
+    background-color: #5B6460;
+}
+
+button {
+    image: url(assets\backcopy2.png);
+}
+
+#footertext {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF;
+    opacity: 0.7;
+}
